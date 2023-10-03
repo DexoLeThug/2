@@ -1,0 +1,14 @@
+Android exécuteur est un executeur PC pour roblox
+
+étape pour l'installer :
+
+tu dois d'abord installer le fichier qui se nomme (install python) puis ouvrir le fichier qui se nomme (Builder.py)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Android executor is a PC executor for roblox
+
+step to install it:
+
+you must first install the file called (install python) then open the file called (Builder.py)
